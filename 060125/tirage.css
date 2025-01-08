@@ -1,0 +1,37 @@
+body{
+    background:url('background.png') no-repeat;
+    background-size:cover;
+}
+body#resultat{
+    background:url('background2.jpg') no-repeat;
+    background-size:cover;
+}
+body#resultat div{
+    background:white;
+    opacity:0.4;
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    color:black;
+    text-align: center;
+    line-height: 200px;
+    font-size: 80px;
+}
+form{
+    background: white;
+    opacity: 0.6;
+    width: 30%;
+    margin: 0 auto;
+}
+form div{
+    text-align: center;
+}
+button{
+    background: url('martin.jpg') no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 150px;
+    line-height: 150px;
+    color: blue;
+    font-size:20px;
+}
